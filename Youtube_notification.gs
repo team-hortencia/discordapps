@@ -61,7 +61,6 @@ function triggerYoutube()
       
       postMessage(message);
       postMessage_potato(message);
-
     }
 
     // 保存
